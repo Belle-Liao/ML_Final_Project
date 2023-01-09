@@ -50,7 +50,7 @@ I provide two links below but they are the same model:
 
 ## Reproduce the Submission
 
-After **Run All** all the cells, a csv file **109550024.csv** will appear in the same file of the inference code.
+After **Run All** all the cells of the [inference code](https://github.com/Belle-Liao/ML_Final_Project/blob/main/109550024_Final_inference.ipynb), a csv file **109550024.csv** will appear in the same file of the inference code.
 
 ## Results
 
