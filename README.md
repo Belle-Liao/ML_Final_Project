@@ -4,11 +4,13 @@
 ## Requirements 
 The local environmet is VS code
 Here I provide the version of all packets importing in the code:
+```python
     numpy -- 1.22.2
     panda -- 1.3.0
     sklearn -- 1.0.2
     lightgbm -- 3.3.4
     catboost -- 1.1.1
+```
     
 ## Training
 The [training code](https://github.com/Belle-Liao/ML_Final_Project/blob/main/109550024_Final_train.ipynb) is a jupyter notebook (.ipynb). In VS code, just **Run All** the cell and you can start the training process.
