@@ -24,7 +24,7 @@ In VS code, just **Run All** the cells and you can start the training process.
 
 The [inference code](https://github.com/Belle-Liao/ML_Final_Project/blob/main/109550024_Final_inference.ipynb) is a jupyter notebook (.ipynb). 
 
-Downloading the [my model](https://github.com/Belle-Liao/ML_Final_Project/blob/main/LR_model.pkl) first. Then put it in the same file of the inference code and just **Run All** the cells in the VS code
+Downloading the [model](https://github.com/Belle-Liao/ML_Final_Project/blob/main/LR_model.pkl) first. Then put it in the same file of the inference code and just **Run All** the cells in the VS code
 
 ### Load the Model
 ```python
