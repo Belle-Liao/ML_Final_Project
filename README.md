@@ -5,11 +5,11 @@
 The local environmet is VS code
 Here I provide the version of all packets importing in the code:
 ```python
-    numpy -- 1.22.2
-    panda -- 1.3.0
-    sklearn -- 1.0.2
-    lightgbm -- 3.3.4
-    catboost -- 1.1.1
+numpy -- 1.22.2
+panda -- 1.3.0
+sklearn -- 1.0.2
+lightgbm -- 3.3.4
+catboost -- 1.1.1
 ```
     
 ## Training
