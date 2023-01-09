@@ -45,8 +45,6 @@ I provide two links below but they are the same model:
 
 After **Run All** all the cells of the [inference code](https://github.com/Belle-Liao/ML_Final_Project/blob/main/109550024_Final_inference.ipynb), a csv file **109550024.csv** will appear in the same file of the inference code.
 
-
-### Reproduce the submission csv file
 ```python
 test_predict = pickled_LR_model.predict_proba(X_test)[:,1]
 sample_submission['failure'] = test_predict
