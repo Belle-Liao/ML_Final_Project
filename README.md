@@ -55,6 +55,7 @@ After **Run All** all the cells, a csv file **109550024.csv** will appear in the
 ## Results
 
 Competiton on Kaggle: [Tabular Playground Series - Aug 2022](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview)
+
 Baseline: 0.58990 on private score
 
 My best result by using the LogisticRegression model:
