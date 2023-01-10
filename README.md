@@ -18,6 +18,8 @@ catboost -- 1.1.1
 
 The [training code](https://github.com/Belle-Liao/ML_Final_Project/blob/main/109550024_Final_train.ipynb) is a jupyter notebook (.ipynb). 
 
+First should download the dataset and sample sumbmission file.
+
 In VS code, just **Run All** the cells and you can start the training process.
 
 ## Evaluation
